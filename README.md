@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @jddevcloud and I insterested on Automation and various cloud vendors Like Azure, AWS and GCP
+# 👋 Hi, I’m @jddevcloud and I insterested on Automation and various cloud vendors like Azure, AWS and GCP
 
 ## My skills are focused on deploying infrastructure using IaC pipelines, developing automation processes and managing clusters on k8s (And all tools in relation)
 
